@@ -1,2 +1,2 @@
-# hello-world
+hello-world
 # 2026ソフトウェア工学演習 第11回 演習課題
